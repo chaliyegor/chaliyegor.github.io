@@ -1,0 +1,241 @@
+.navbar {
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+.alal {
+    width: 100px;
+    box-shadow: 0px 0px 2px white;
+}
+
+.nav-item .nav-link {
+    color: white !important;
+}
+
+.alalaa {
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.726);
+    border-radius: 40px 40px 40px;
+    color: black;
+}
+
+.hohnet {
+    text-align: center;
+    color: white;
+}
+
+.top {
+    background-image: url(image.MQ6.8.20191127112012.webp);
+    border-radius: 40px 40px 40px;
+
+}
+
+.nover {
+    color: white;
+}
+
+.lalalall {
+    background-color: rgba(0, 0, 0, 0.582);
+    color: white;
+    border-radius: 25px 25px 25px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #000000, #200716, #2f0c2e, #321550, #022678);
+}
+
+.alalalalalal {
+    background-color: rgba(73, 73, 73, 0.63);
+    background-image: url(4282a8121fd28efd1241e3e1af1092ca443b9b19.webp);
+    border-radius: 20px 20px 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.ghjk {
+    background-color: rgba(128, 128, 128, 0.438);
+    color: white;
+    margin: 0px;
+    border-radius: 40px 40px 40px;
+}
+
+.rrr {
+    text-align: start;
+    align-items: center;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Barlow', sans-serif;
+}
+
+.heng {
+    color: black;
+    background-color: yellow;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    border: 0;
+    padding: 10px 20px;
+
+}
+
+.lalalaa {
+    background-color: rgba(0, 255, 255, 0.575);
+    text-align: center;
+    border-radius: 40px 40px 40px;
+    color: black;
+
+}
+
+.good {
+    background-image: url(756528599758848.jpg);
+    width: 100%;
+    border-radius: 40px 40px 40px;
+
+}
+
+.hohneta {
+    color: black;
+    text-align: center;
+    border-radius: 40px 40px 40px;
+
+}
+
+.govermen {
+    margin-top: 20px;
+}
+
+.hohooh {
+    background-color: rgba(165, 42, 42, 0.651);
+    border-radius: 25px 25px 25px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: white;
+}
+
+.down {
+    background-image: url(2022-bmw-7er.jpg);
+    border-radius: 40px 40px 40px;
+
+}
+
+.lalalalal {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.534);
+    border-radius: 40px 40px 40px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.rrrr {
+    text-align: start;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Barlow', sans-serif;
+}
+
+.hohnetaa {
+    color: black;
+    text-align: center;
+}
+
+.dover {
+    background-color: rgba(0, 0, 255, 0.644);
+    border-radius: 25px 25px 25px;
+    color: white;
+}
+
+.lalalaaa {
+    background-color: rgba(255, 140, 0, 0.658);
+    text-align: center;
+    border-radius: 40px 40px 40px;
+    padding: 20px;
+    color: white;
+}
+
+.badd {
+    background-image: url(756431221546546.jpg);
+    border-radius: 40px 40px 40px;
+}
+
+.boliing {
+    background-image: url(audi-q4-e-tron-sportback-concept.jpg);
+    border-radius: 40px 40px 40px;
+}
+
+.gover {
+    background-color: rgba(0, 0, 0, 0.568);
+    color: white;
+    border-radius: 40px 40px 40px;
+    padding: 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.fover {
+    color: white;
+    margin-top: 20px;
+
+}
+
+.genius {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rrrrr {
+    margin-top: 20px;
+    color: white;
+    font-family: 'Barlow', sans-serif;
+}
+
+.gawn {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer .text {
+    color: gray;
+    text-align: right;
+}
+
+.rrrrrrrr {
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px 10px;
+}
+
+.alo {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 7px 7px 7px;
+
+}
+
+.llllla {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    color: gray;
+}
+
+.socio-link {
+    font-size: 2.3rem;
+    color: lightgray;
+    text-decoration: none;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+
+.socio-link:hover {
+    color: aqua;
+    text-shadow: 0px 0px 7px white;
+}
